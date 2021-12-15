@@ -14,5 +14,3 @@ Features Include:
 -Swipe and Tap Gestures
 -Localized in Japanese
 -Custom Colors
-
-![Home Screen](https://user-images.githubusercontent.com/56212188/146101105-723e8d51-2228-4b89-9232-7033cce68b5f.png)
